@@ -1,4 +1,4 @@
- """International Cost of Capital — Streamlit application."""
+"""International Cost of Capital — Streamlit application."""
 
 from datetime import datetime, timezone
 from html import escape
